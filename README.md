@@ -676,6 +676,9 @@ This makes it easy to understand and test the parking-control logic without requ
 
 ## Expected Output
 
+<img width="977" height="450" alt="image" src="https://github.com/user-attachments/assets/4065956b-49dc-40fd-9b0a-bb16f2af35ef" />
+
+
 ### Initially – Both Slots Available
 
 ~~~text
